@@ -39,7 +39,7 @@ dev.off(4) # close png but leave screen display active
 ```
 
 ```
-![plot1](https://github.com/aaich2020/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project_1/plot1.png?raw=true)
+![plot1](https://github.com/aaich2020/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project_1/plot1.png?)
 ```
 
 * plot2.R
@@ -81,6 +81,10 @@ dev.copy(png, file="plot2.png", width=480, height=480)
 dev.off(4) # close png but leave screen display active
 ```
 
+```
+![plot2](https://github.com/aaich2020/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project_1/plot2.png)
+```
+
 * plot3.R
 ```
 # This R script is designed to load the household power consumption data
@@ -120,6 +124,10 @@ with(hpc1, lines(Sub_metering_3 ~ datetime, col="blue"))
 legend("topright", lty=1, col = c("black", "red", "blue"), 
        legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"))
 dev.off()
+```
+
+```
+![plot3](https://github.com/aaich2020/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project_1/plot3.png)
 ```
 
 * plot4.R
@@ -184,4 +192,8 @@ dev.off()
 
 # restore to original par setting
 par(old.par)
+```
+
+```
+![plot4](https://github.com/aaich2020/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project_1/plot4.png)
 ```
