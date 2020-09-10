@@ -4,7 +4,7 @@
 Project 1
 -----------
 * plot1.R
------------
+
 ```
 # This R script is designed to load the household power consumption data
 #  and then create plot 1 as a png file
@@ -39,3 +39,4 @@ dev.copy(png, file="plot1.png", width=480, height=480)
 dev.off(4) # close png but leave screen display active
 
 ```
+* plot1.png
