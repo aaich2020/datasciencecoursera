@@ -39,7 +39,3 @@ dev.copy(png, file="plot1.png", width=480, height=480)
 dev.off(4) # close png but leave screen display active
 
 ```
-* plot1.png
-```
-![](Exploratory Data Analysis/Project_1/plot1.png)
-```
