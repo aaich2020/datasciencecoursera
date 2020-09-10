@@ -40,3 +40,6 @@ dev.off(4) # close png but leave screen display active
 
 ```
 * plot1.png
+```
+![](Exploratory Data Analysis/Project_1/plot1.png)
+```
