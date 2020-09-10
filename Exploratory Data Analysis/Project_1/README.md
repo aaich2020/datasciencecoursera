@@ -38,6 +38,10 @@ dev.copy(png, file="plot1.png", width=480, height=480)
 dev.off(4) # close png but leave screen display active
 ```
 
+```
+![plot1](https://github.com/aaich2020/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project_1/plot1.png?raw=true)
+```
+
 * plot2.R
 ```
 # This R script is designed to load the household power consumption data
